@@ -1,0 +1,56 @@
+body {
+background-color: black;
+
+}
+
+
+p{
+    line-height: 25px;
+}
+
+h1 a {
+    text-decoration: none;
+}
+
+.container .cover {
+    width: 100%;
+}
+
+.material-symbols-outlined{
+    color: white;
+}
+
+p,
+a,
+h1,
+h2 {
+color: white;
+font-family:  'Comic Sans MS';
+
+}
+
+.container {
+    width: 720px; ;
+    margin: 25px auto;
+}
+
+.lecture {
+display: flex;
+gap: 8px;
+margin: bottom 8px;
+
+}
+
+.lecture img {
+width: 250px;
+
+}
+
+.lecture a{ 
+padding: 8px;
+border-radius: 8px;
+background-color: red;
+}
+
+
+
